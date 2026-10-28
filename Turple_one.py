@@ -26,3 +26,4 @@ for name, grade in students:
     if grade >= 50
     count = count + 1
 print(f'The amount of students that passed is {count}')
+
